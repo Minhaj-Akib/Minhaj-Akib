@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/power-bi.png"> </code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
